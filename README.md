@@ -18,5 +18,5 @@ Young Ji Tuen
     * This Disney Revenue database used in this work was curated by **Kelly Garrett**.
 * [Data Visualization](https://altair-viz.github.io/user_guide/customization.html#adjusting-axis-labels)
     * Tips and tricks for data visualization was learned from the **Altair Developers**.
-* Thank you to the developers of the UBC Extended Learning course, Programming in Python for Data Science for teaching me the Python language ☺️
+* Thank you to the developers of the UBC Extended Learning course, Programming in Python for Data Science for teaching me the Python language and all of the techniques used in this project ☺️
 
