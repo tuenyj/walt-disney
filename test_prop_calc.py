@@ -3,7 +3,7 @@ Created on Sat 28 May 2022
 
 @author: Young Ji
 
-This script creates helper data to test the prop_calc function created for the Python Programmign for Data Science project.
+This script creates helper data to test the prop_calc function created for the Python Programming for Data Science project.
 """
 
 from prop_calc import prop_calc
